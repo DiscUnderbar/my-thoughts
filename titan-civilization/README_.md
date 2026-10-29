@@ -4,14 +4,16 @@ skibidi toilet 을 보고 만든 SF 소설이다. skibidi toilet 이랑 내용�
 
 그리고 파일마다 이상한 앞에 번호 a, b, ba 그런게 있는데 그냥 순서를 정열하기 위해 붙은 번호다. 무시하면 된다.
 
-**1화 - 싸움에 시작:** [1화로 가기](a.episode-1.md)
+**1화 - 싸움에 시작:** [1화로 바로 가기](a.episode-1.md)
 
-**2화 - 문명의 기술:** [2화로 가기](b.epsidoe-2.md)
+**2화 - 문명의 기술:** [2화로 바로 가기](b.epsidoe-2.md)
 
-**2화 수정:** [2화 수정본으로 가기](ba.episode-2-edit.md)
+**2화 수정:** [2화 수정본으로 바로 가기](ba.episode-2-edit.md)
 
-**3화 part1 - UN 궁금증 회의:** [3화 part1로 가기](c.episode-3-part1.md)
+**3화 part1 - UN 궁금증 회의:** [3화 part1로 바로 가기](c.episode-3-part1.md)
 
-**3화 part2 - UN 대책 회의:** [3화 part2로 가기](ca.episode-3-part2.md)
+**3화 part2 - UN 대책 회의:** [3화 part2로 바로 가기](ca.episode-3-part2.md)
 
-**3화 full epsidoe - UN 대책 대회의:** [3화 full episode로 가기](cb.full-episode-3.md)
+**3화 full epsidoe - UN 대책 대회의:** [3화 full episode로 바로 가기](cb.full-episode-3.md)
+
+**4화 - 새 조직 UEC, 그리고 소통파:** [4화로 바로 가기](d.episode-4.md)
