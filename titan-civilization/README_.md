@@ -17,3 +17,5 @@ skibidi toilet 을 보고 만든 SF 소설이다. skibidi toilet 이랑 내용�
 **3화 full epsidoe - UN 대책 대회의:** [3화 full episode로 바로 가기](cb.full-episode-3.md)
 
 **4화 - 새 조직 UEC, 그리고 소통파:** [4화로 바로 가기](d.episode-4.md)
+
+**5화 - 소통파들의 실패:** [5화로 바로 가기](e.episode-5.md)
