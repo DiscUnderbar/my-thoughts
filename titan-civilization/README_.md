@@ -4,6 +4,8 @@ skibidi toilet 을 보고 만든 SF 소설이다. skibidi toilet 이랑 내용�
 
 그리고 파일마다 이상한 앞에 번호 a, b, ba 그런게 있는데 그냥 순서를 정열하기 위해 붙은 번호다. 무시하면 된다.
 
+**season1**
+
 **1화 - 싸움에 시작:** [1화로 바로 가기](a.episode-1.md)
 
 **2화 - 문명의 기술:** [2화로 바로 가기](b.epsidoe-2.md)
@@ -21,6 +23,14 @@ skibidi toilet 을 보고 만든 SF 소설이다. skibidi toilet 이랑 내용�
 **5화 - 소통파들의 실패:** [5화로 바로 가기](e.episode-5.md)
 
 **6화 - 그시각 미마스:** [6화로 바로 가기](f.episode-6.md)
+
+**season1 ~ season2**
+
+**7화 - 지원:** [7화 바로 가기](g.episode-7.md)
+
+**season2**
+
+**8화 - 절망:**
 
 ## 뒷이야기
 
